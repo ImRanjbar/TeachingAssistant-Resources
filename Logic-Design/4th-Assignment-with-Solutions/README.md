@@ -1,9 +1,6 @@
 # Logic Design Course - Fourth Assignment Walkthrough with Solutions
 
 ## Contents
-* **Sequential Logic**
-
-## Contents
 * **Sequential Circuits**
 * **Storage Elements**
 * **Synchronous and Asynchronous Counter**
