@@ -7,6 +7,7 @@ A collection of assignments, workshops, and educational materials created during
 - [Assignment 2: Problems and Solutions - Gate-Level Minimization](./Logic-Design/2th-Assignment-with-Solutions/)
 - [Assignment 3: Problems and Solutions - Combinational Logic](./Logic-Design/3th-Assignment-with-Solutions/)
 - [Assignment 4: Problems and Solutions - Sequential Logic](./Logic-Design/4th-Assignment-with-Solutions/)
+- [Assignment 5: Problems and Solutions - Registers and Counters](./Logic-Design/5th-Assignment-with-Solutions/)
 
 ## **Advanced C++ Programming Course**
 - [Building a Qt App in C++ (Workshop)](./SimpleApp-Qt-C++-00/)
